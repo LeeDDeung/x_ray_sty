@@ -19,7 +19,7 @@ PNEUMONIA: 약 3,875장
 
 데이터는 다음과 같은 구조를 가집니다.
 
-data/
+"data/
  ├─ train/
  │   ├─ NORMAL/
  │   └─ PNEUMONIA/
@@ -30,10 +30,10 @@ data/
      ├─ NORMAL/
      └─ PNEUMONIA/
 
-데이터 파일은 용량 및 혹시모를 라이선스 문제로 Github에 포함하지 않습니다.
+데이터 파일은 용량 및 혹시모를 라이선스 문제로 Github에 포함하지 않습니다."
 
 ## Project Structure
-
+"
 chest_xray/
 ├─ data/                # 로컬 데이터 (Git ignore)
 ├─ src/
@@ -42,7 +42,7 @@ chest_xray/
 │   └─ train.py         # 학습 스크립트
 ├─ README.md
 ├─ requirements.txt
-└─ .gitignore
+└─ .gitignore"
 
 
 Approach
