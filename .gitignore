@@ -1,0 +1,15 @@
+# data
+data/
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# env
+.env
+.venv
+myenv/
+
+# OS
+.DS_Store
