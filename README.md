@@ -29,7 +29,7 @@ data/
  │   └─ PNEUMONIA/
  └─ test/
      ├─ NORMAL/
-     └─ PNEUMONIA/
+     └─ PNEUMONIA/```
 
 데이터 파일은 용량 및 혹시모를 라이선스 문제로 Github에 포함하지 않습니다.
 
@@ -43,7 +43,7 @@ chest_xray/
 │   └─ train.py         # 학습 스크립트
 ├─ README.md
 ├─ requirements.txt
-└─ .gitignore
+└─ .gitignore```
 
 
 
