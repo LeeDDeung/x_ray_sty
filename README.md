@@ -30,7 +30,7 @@ data/
  └─ test/
      ├─ NORMAL/
      └─ PNEUMONIA/
-     ```
+```
 
 데이터 파일은 용량 및 혹시모를 라이선스 문제로 Github에 포함하지 않습니다.
 
@@ -45,7 +45,7 @@ chest_xray/
 ├─ README.md
 ├─ requirements.txt
 └─ .gitignore
-    ```
+```
 
 
 
